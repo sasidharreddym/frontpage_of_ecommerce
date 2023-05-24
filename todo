@@ -1,0 +1,18 @@
+->creating of virtual env
+syntax:-
+-->pip install virtualenv
+virtualenv virtualenvname
+
+->install django
+syntax:-
+pip install django
+
+->create one empty django project and application
+syntax for creation of project
+
+--> django-admin startproject projectname
+
+syntax for creation of new application
+
+--> pthon manage.py startapp application name
+# manage.py is a script which is used to run administrative tasks like intialising the database running the development server and similar.
